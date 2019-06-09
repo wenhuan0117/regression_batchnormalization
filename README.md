@@ -1,0 +1,3 @@
+# regression_batchnormalization
+回归问题
+体现batchnormalization的强大，解决梯度消失。
